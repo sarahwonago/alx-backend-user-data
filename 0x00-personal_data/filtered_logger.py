@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Personal Data
+Personal Data project
 """
 
 import logging
